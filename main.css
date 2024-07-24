@@ -1,0 +1,10 @@
+body {
+    background: linear-gradient(to right, blue, yellow);
+}
+
+h1 {
+    color: #333; /* Dark grey color for the text */
+    text-align: center;
+    font-family: Arial, sans-serif;
+    margin-top: 20px;
+}
